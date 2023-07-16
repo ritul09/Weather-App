@@ -1,0 +1,30 @@
+{
+  "coord": { "lon": 88.3697, "lat": 22.5697 },
+  "weather": [
+    { "id": 721, "main": "Haze", "description": "haze", "icon": "50n" }
+  ],
+  "base": "stations",
+  "main": {
+    "temp": 303.12,
+    "feels_like": 309.11,
+    "temp_min": 303.12,
+    "temp_max": 303.12,
+    "pressure": 1009,
+    "humidity": 74
+  },
+  "visibility": 3500,
+  "wind": { "speed": 3.6, "deg": 180 },
+  "clouds": { "all": 0 },
+  "dt": 1681236344,
+  "sys": {
+    "type": 1,
+    "id": 9114,
+    "country": "IN",
+    "sunrise": 1681170617,
+    "sunset": 1681215884
+  },
+  "timezone": 19800,
+  "id": 1275004,
+  "name": "Kolkata",
+  "cod": 200
+}
